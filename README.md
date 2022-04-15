@@ -1,7 +1,7 @@
 # odin-recipes
 
-Author: Nicolas Rebollo Canedo-Arguelles
-Project Title: The Odin Project Recipes Project
+- Author: Nicolas Rebollo Canedo-Arguelles
+- Project Title: The Odin Project Recipes Project
 
 Background: 
 - This will be the first HTML-based project that I will complete as a part of The Odin Project's full-stack developer curriculum.
