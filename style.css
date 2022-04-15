@@ -1,0 +1,26 @@
+/* style.css */
+* {
+    background-color: bisque;
+}
+
+h1 {
+    color: #0C034C;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+}
+
+/* dealing with index/main page elements*/
+.index.warning {
+    font-size: 12px;
+}
+
+.index {
+    text-align: center;
+}
+
+img.index {
+    height: auto;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
